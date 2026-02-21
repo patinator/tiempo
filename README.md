@@ -12,7 +12,7 @@ Esta aplicación ha sido diseñada específicamente para gestionar los tiempos d
 * **Diseño Minimalista:** Sin distracciones, solo el tiempo y tú.
 
 ## 📲 Instalación
-1. Descarga el archivo **[Temporizador.apk](URL_DE_TU_ARCHIVO_APK)**.
+1. Descarga el archivo **https://github.com/patinator/tiempo/blob/d7623690a2a1c9a6b3d9528895cd066e9f0cdd6a/MrIto.apk**.
 2. Abre el archivo en tu dispositivo Android.
 3. Permite la "Instalación desde fuentes desconocidas" si tu sistema lo solicita.
 4. ¡Empieza a entrenar!
